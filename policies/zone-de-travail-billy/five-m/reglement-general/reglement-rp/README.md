@@ -59,3 +59,13 @@ _**Traque des civils**_
 Ce type de _**RP**_ est totalement proscrit sur _**BLRP**_ et est considéré comme un comportement toxic de plus ce type de comportement ne respecte pas les règles liées au [Mass RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/mass-rp.md).&#x20;
 
 ⦁ Un agent ne peut pas se contenter de suivre un civil jusqu'à ce qu'il commette un délit, mais s'il remarque une activité suspecte, il peut l'observer pour essayer de voir si un délit est en train d'être commis.
+
+
+
+&#x20;_**Prise d'otage**_
+
+
+
+⦁ Lors d'une prise d'otage vous ne pouvez prétendre avoir des **Personnage Non Joueur (PNJ)** comme otage.\
+\
+⦁ Les prises d'otages sont régis par la "**Cohérence RP**" elle n'ont pas toujours comme finalité des courses-poursuites. La police peut donner l'ordre d'intervenir malgré la présence d'otages. Chaque prise d'otages est différente, les joueurs ne doivent pas prendre en compte un schéma pré fait (accord tacite **HRP** entre joueurs)  lors de leurs scènes (**Métagaming**)cependant les forces de l'ordre doivent prendre en compte l'importance de la vie des otages tout en sachant que la perte d'otage revient à déshonorer son uniforme (**Cohérence RP**). Toutes scènes de prises d'otages ne sont que des habiles jeux de manipulation et de dialogue elles ne doivent être faites à la hâte et les joueurs de **Blue Line** doivent prendre en compte que celles-ci peuvent durer des heures.
