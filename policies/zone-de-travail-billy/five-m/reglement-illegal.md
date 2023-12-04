@@ -2,11 +2,11 @@
 
 
 
-&#x20; _**Groupes Officielle.**_&#x20;
+&#x20; _**Groupes Officiels.**_&#x20;
 
 
 
-⦁ Les Groupes Criminels dit Officiel sont des Groupuscule étudié et validé par l'Administration de _**BlueLine**_ via ticket Discord, ils ont plus de possibilités de _**RolePlay**_ que des personnages dit "One Shot"   \
+⦁ Les Groupes Criminels dit "Officiels" sont des Groupuscules étudiés et validés par l'Administration de _**BlueLine**_ via ticket Discord, ils ont plus de possibilités de _**RolePlay**_ que des personnages dit "One Shot"   \
 \
 ⦁ Chaque joueur a la possibilité d'offrir ou non une continuité à leur arrestation par un _**RP**_ prison excepter pour les membres d'organisation criminelle dit "officielle". Cependant un joueur ayant refusé de continuer son _**RP**_ en prison ne devra pas réitérer des actes criminels après sa sortie de cellule à moins que le fond de son personnage ne le rende cohérent. (_**Cohérence RP**_)
 
