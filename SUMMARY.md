@@ -71,6 +71,7 @@
         * [⚠ Copie des Véhicules](policies/zone-de-travail-billy/five-m/reglement-general/reglement-hrp/copie-des-vehicules.md)
         * [⚠ Utilisation de la téléportation](policies/zone-de-travail-billy/five-m/reglement-general/reglement-hrp/utilisation-de-la-teleportation.md)
         * [🔰 Away From Keyboard, AFK](policies/zone-de-travail-billy/five-m/reglement-general/reglement-hrp/away-from-keyboard-afk.md)
+        * [Mort RP/Wipe](policies/zone-de-travail-billy/five-m/reglement-general/reglement-hrp/mort-rp-wipe.md)
       * [☘ Règlement RP](policies/zone-de-travail-billy/five-m/reglement-general/reglement-rp/README.md)
         * [🔰 Normes de réalisme sur les Armes](policies/zone-de-travail-billy/five-m/reglement-general/reglement-rp/normes-de-realisme-sur-les-armes.md)
         * [🔰 Respecter le code de la route](policies/zone-de-travail-billy/five-m/reglement-general/reglement-rp/respecter-le-code-de-la-route.md)
