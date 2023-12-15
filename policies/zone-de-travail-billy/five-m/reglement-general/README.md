@@ -1,6 +1,36 @@
+---
+description: 'Sommaire du Règlement BlueLine RolePlay :'
+---
+
 # 🌱 Règlement Général
 
-Phrase bateau : Bienvenue dans le sommaire du règlement général.&#x20;
+
+
+{% content-ref url="reglement-hrp/" %}
+[reglement-hrp](reglement-hrp/)
+{% endcontent-ref %}
+
+{% content-ref url="reglement-rp/" %}
+[reglement-rp](reglement-rp/)
+{% endcontent-ref %}
+
+{% content-ref url="../lexique-rp/" %}
+[lexique-rp](../lexique-rp/)
+{% endcontent-ref %}
+
+{% content-ref url="../reglement-force-de-lordre.md" %}
+[reglement-force-de-lordre.md](../reglement-force-de-lordre.md)
+{% endcontent-ref %}
+
+{% content-ref url="../reglement-justice.md" %}
+[reglement-justice.md](../reglement-justice.md)
+{% endcontent-ref %}
+
+{% content-ref url="../reglement-illegal.md" %}
+[reglement-illegal.md](../reglement-illegal.md)
+{% endcontent-ref %}
+
+
 
 {% hint style="info" %}
 **Il est bon de savoir que tout manquement aux règles ci-dessous peut être sanctionné.**\

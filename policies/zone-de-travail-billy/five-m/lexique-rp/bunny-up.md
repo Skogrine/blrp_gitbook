@@ -1,4 +1,4 @@
-# Bunny Up
+# 🌐 Bunny Up
 
 _**Bunny Up**_
 

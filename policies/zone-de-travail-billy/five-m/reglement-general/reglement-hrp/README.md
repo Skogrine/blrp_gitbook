@@ -1,7 +1,7 @@
 # ☘ Règlement HRP
 
 {% hint style="warning" %}
-Fair Play : Le FairPlay est une notion que nous encourageons grandement, il est bon de se rappeler que le principe même de l'existence de Blue Line est le divertissement. Prenez du plaisir et donnez du plaisir aux autres !&#x20;
+**Fair Play** : Le FairPlay est une notion que nous encourageons grandement, il est bon de se rappeler que le principe même de l'existence de Blue Line est le divertissement. Prenez du plaisir et donnez du plaisir aux autres !&#x20;
 {% endhint %}
 
 _**Modification Client Side**_

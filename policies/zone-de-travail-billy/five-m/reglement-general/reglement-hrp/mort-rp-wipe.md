@@ -1,4 +1,4 @@
-# Mort RP/Wipe
+# 🔰 Mort RP/Wipe
 
 _**Système de Mort RP**_
 
