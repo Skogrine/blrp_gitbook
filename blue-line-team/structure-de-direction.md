@@ -2,9 +2,7 @@
 description: Bienvenue dans la section 3 du règlement
 ---
 
-# 📙 Structure de direction "WIP"
-
-_**"Mettre en place l'organisation de l'équipe les documents offi lié à la future association qui fait quoi les thermes légaux ce qu'on est nos objectifs etc"**_&#x20;
+# 📙 Structure de direction
 
 * _**Structure de direction de la communauté**_
 
@@ -28,16 +26,6 @@ Le bureau administratif est dirigé par un administrateur en chef. Leurs rôle e
 
 Le bureau administratif est responsable de toutes les actions administratives au sein de la communauté, l'administration du Discord, du serveur FiveM et l'assistance en générale.
 
-\
-
-
-_**Bureau d'information communautaire**_
-
-Le Bureau de sensibilisation communautaire est divisé en deux équipes distinctes, toutes deux dirigées par des chefs d'équipe : l'équipe de recrutement communautaire et l'équipe de sensibilisation promotionnelle.
-
-L'équipe de recrutement communautaire est composée de recruteurs communautaires chargés d'examiner les candidatures et de mener les entretiens. Tout comme l'équipe de recrutement communautaire, l'équipe de promotion est composée de membres ayant le titre de promoteurs. Les promoteurs sont responsables de l'autorisation des médias, de la création des médias, du marketing et de la promotion de la communauté au plus haut niveau.&#x20;
-
-\
 
 
 _**Bureau du développement**_

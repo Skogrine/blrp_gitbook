@@ -43,7 +43,7 @@
 ## 😃 Blue Line Team
 
 * [👋 Rencontre l'équipe !](blue-line-team/rencontre-lequipe.md)
-* [📙 Structure de direction "WIP"](blue-line-team/structure-de-direction-wip.md)
+* [📙 Structure de direction](blue-line-team/structure-de-direction.md)
 
 ## Collaborating
 
