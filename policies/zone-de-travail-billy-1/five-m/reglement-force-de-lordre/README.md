@@ -1,14 +1,14 @@
 # ⚔ Règlement Force de l'Ordre
 
-&#x20;_**Utilisation du Tazer**_
+&#x20;_**Less Letal Weapon**_&#x20;
 
 
 
-⦁  L'utilisation du pistolet électrique se fait en cas de nécessité et de manière cohérente il est régi par le "**Freeshoot**" et la "**Cohérence RP"**
+⦁  L'utilisation du pistolet électrique du fusil Bean-Bag et tierces armes à létalité réduite se font en cas de nécessité et de manière cohérente cette règle est régi par le "**Freeshoot**" et la "**Cohérence RP"**
 
-
-
-_**Interrogatoire / Arrestation**_
+{% hint style="info" %}
+Pour plus d'informations référez vous aux documentations de vos services.
+{% endhint %}
 
 
 

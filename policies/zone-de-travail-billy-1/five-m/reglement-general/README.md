@@ -18,16 +18,16 @@ description: 'Sommaire du Règlement BlueLine RolePlay :'
 [lexique-rp](../lexique-rp/)
 {% endcontent-ref %}
 
-{% content-ref url="../reglement-force-de-lordre.md" %}
-[reglement-force-de-lordre.md](../reglement-force-de-lordre.md)
+{% content-ref url="../reglement-force-de-lordre/" %}
+[reglement-force-de-lordre](../reglement-force-de-lordre/)
 {% endcontent-ref %}
 
-{% content-ref url="../reglement-justice.md" %}
-[reglement-justice.md](../reglement-justice.md)
+{% content-ref url="../reglement-justice/" %}
+[reglement-justice](../reglement-justice/)
 {% endcontent-ref %}
 
-{% content-ref url="../reglement-illegal.md" %}
-[reglement-illegal.md](../reglement-illegal.md)
+{% content-ref url="../reglement-illegal/" %}
+[reglement-illegal](../reglement-illegal/)
 {% endcontent-ref %}
 
 
