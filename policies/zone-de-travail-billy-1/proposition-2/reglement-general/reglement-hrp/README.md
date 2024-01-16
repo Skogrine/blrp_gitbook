@@ -4,7 +4,9 @@
 **Fair Play** : Le FairPlay est une notion que nous encourageons grandement, il est bon de se rappeler que le principe même de l'existence de Blue Line est le divertissement. Prenez du plaisir et donnez du plaisir aux autres !&#x20;
 {% endhint %}
 
-_**Modification Client Side**_
+
+
+_<mark style="color:purple;">**Modification Client Side**</mark>_
 
 
 
@@ -16,7 +18,7 @@ Toute modification du jeu n'ayant pour but de l'embellir mais ayant comme résul
 
 
 
-_**Piratage/Exploitation/Modifications**_
+_<mark style="color:purple;">**Piratage/Exploitation/Modifications**</mark>_
 
 
 
@@ -30,7 +32,7 @@ _**Piratage/Exploitation/Modifications**_
 
 
 
-_**Copie des Véhicules**_
+_<mark style="color:purple;">**Copie des Véhicules**</mark>_
 
 
 
@@ -38,7 +40,7 @@ _**Copie des Véhicules**_
 
 
 
-_**Utilisation de la téléportation**_
+_<mark style="color:purple;">**Utilisation de la téléportation**</mark>_
 
 
 
@@ -50,7 +52,7 @@ De plus les TP doivent se faire à l'écart des zones à forte activité pour ne
 
 
 
-_**Away From Keyboard, AFK**_
+_<mark style="color:purple;">**Away From Keyboard, AFK**</mark>_
 
 
 
@@ -58,7 +60,7 @@ _**Away From Keyboard, AFK**_
 
 
 
-_**Mort RP / Wipe**_
+_<mark style="color:purple;">**Mort RP / Wipe**</mark>_
 
 
 

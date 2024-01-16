@@ -1,6 +1,6 @@
 # ☘ Règlement RP
 
-_**Normes de réalisme**_
+_<mark style="color:purple;">**Normes de réalisme**</mark>_
 
 
 
@@ -28,7 +28,7 @@ Il convient de prévoir des délais entre les scènes prioritaires afin de perme
 
 
 
-_**Normes de réalisme sur les Armes**_
+_<mark style="color:purple;">**Normes de réalisme sur les Armes**</mark>_
 
 
 
@@ -40,7 +40,7 @@ _**Normes de réalisme sur les Armes**_
 
 
 
-_**Respecter le code de la route**_
+_<mark style="color:purple;">**Respecter le code de la route**</mark>_
 
 
 
@@ -50,7 +50,7 @@ _**Respecter le code de la route**_
 
 
 
-_**Traque des civils**_
+_<mark style="color:purple;">**Traque des civils**</mark>_
 
 
 
@@ -62,7 +62,7 @@ Ce type de _**RP**_ est totalement proscrit sur _**BLRP**_ et est considéré co
 
 
 
-&#x20;_**Drive By / Tir en conduisant**_
+&#x20;_<mark style="color:purple;">**Drive By / Tir en conduisant**</mark>_
 
 
 
@@ -72,3 +72,21 @@ Ce type de _**RP**_ est totalement proscrit sur _**BLRP**_ et est considéré co
 &#x20; ⦁ De plus nous invitons les joueurs à faire preuve de créativité, un Drive By n'est pas toujours égal à des coups de feux il peut s'imaginer de différente manière.\
 \
 ⦁  Le tir en conduisant doit se faire en toute connaissance de cause et doit respecter une certaine **Cohérence RP**, il ne doit se faire sans raison (**Freeshoot**,**Freekill,WinRP**).
+
+
+
+_<mark style="color:purple;">**New Life Rules, NLR**</mark>_
+
+
+
+⦁ Après être revenu à la vie, vous ne vous souvenez pas de la scène précédente ([Méta Gaming](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/le-metagaming.md)).
+
+&#x20;⦁ Il est interdit aux joueurs de retourner sur quelconque scène après la mort et le retour à la vie.&#x20;
+
+⦁ Après un coma ou de graves blessures à la tête, il est impossible de se souvenir des 30 dernières minutes dans leur intégralité.&#x20;
+
+Des bribes peuvent être présentes cependant elles doivent rester cohérente à la blessure subie et respecter un certain **Fair Play** ([Win RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/win-rp.md)).&#x20;
+
+⦁ Tout joueur mourant lors d'une scène se devra d'effectuer une scène Paramedics/EMT s' ils sont disponibles.&#x20;
+
+Toutes formes de refus n'est pas toléré et s'apparente à du **Refus de RP**.

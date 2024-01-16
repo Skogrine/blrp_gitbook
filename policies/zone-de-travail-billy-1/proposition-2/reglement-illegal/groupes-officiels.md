@@ -1,6 +1,6 @@
-# 🎭 Groupes Officiels.
+# 🎭 Groupes Officiels
 
-_**Groupes Officiels.**_&#x20;
+_**Groupes Officiels**_
 
 
 

@@ -1,6 +1,6 @@
 # ⚔ Règlement Force de l'Ordre
 
-&#x20;_**Less Letal Weapon**_&#x20;
+&#x20;_<mark style="color:purple;">**Less Letal Weapon**</mark>_&#x20;
 
 
 
@@ -12,7 +12,7 @@ Pour plus d'informations référez vous aux documentations de vos services.
 
 
 
-_**Manoeuvre du PIT**_&#x20;
+_<mark style="color:purple;">**Manoeuvre du PIT**</mark>_&#x20;
 
 
 
@@ -24,7 +24,7 @@ Pour plus d'informations référez vous aux documentations de vos services.
 
 
 
-_**Ripoux et Comportements Borderline**_
+_<mark style="color:purple;">**Ripoux et Comportements Borderline**</mark>_
 
 
 

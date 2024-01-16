@@ -4,7 +4,7 @@ description: Bienvenue dans la section 2 du règlement
 
 # 📗 Règlement Communautaire
 
-* _**Règlement Communautaire**_&#x20;
+* _<mark style="color:purple;">**Règlement Communautaire**</mark>_&#x20;
 
 
 
@@ -15,7 +15,7 @@ Vous trouverez ci-dessous l'ensemble des règles à respecter sur **BLRP**, ceci
 \
 
 
-* _**Définition des propriétés intellectuel de BLRP : les biens appartenant à Blue Line Roleplay sont :**_
+* _<mark style="color:purple;">**Définition des propriétés intellectuel de BLRP : les biens appartenant à Blue Line Roleplay sont :**</mark>_
 
 
 
@@ -29,7 +29,7 @@ Vous trouverez ci-dessous l'ensemble des règles à respecter sur **BLRP**, ceci
 
 
 
-_**Adhésion à la Communauté :**_&#x20;
+_<mark style="color:purple;">**Adhésion à la Communauté :**</mark>_&#x20;
 
 
 
@@ -46,7 +46,7 @@ _**Adhésion à la Communauté :**_&#x20;
 \
 
 
-_**Le Respect**_
+_<mark style="color:purple;">**Le Respect**</mark>_
 
 
 
@@ -58,7 +58,7 @@ _**Le Respect**_
 
 
 
-_**Double adhésion/multi-appartenance**_
+_<mark style="color:purple;">**Double adhésion/multi-appartenance**</mark>_
 
 
 
@@ -86,7 +86,7 @@ _**Double adhésion/multi-appartenance**_
 
 
 
-_**Le SPAM**_
+_<mark style="color:purple;">**Le SPAM**</mark>_
 
 
 
@@ -100,7 +100,7 @@ _**Le SPAM**_
 
 
 
-_**L'usurpation d'identité**_
+_<mark style="color:purple;">**L'usurpation d'identité**</mark>_
 
 
 
@@ -110,7 +110,7 @@ _**L'usurpation d'identité**_
 
 
 
-_**Publicité/Promotion**_
+_<mark style="color:purple;">**Publicité/Promotion**</mark>_
 
 
 
@@ -122,7 +122,7 @@ _**Publicité/Promotion**_
 
 
 
-_**Informations personnelles**_
+_<mark style="color:purple;">**Informations personnelles**</mark>_
 
 
 
@@ -144,7 +144,7 @@ _**Informations personnelles**_
 
 
 
-_**Sujets controversés**_
+_<mark style="color:purple;">**Sujets controversés**</mark>_
 
 
 
@@ -162,7 +162,7 @@ Afin de mieux vous guider dans la création de votre personnage ou même dans le
 
 
 
-_**Activités illégales**_
+_<mark style="color:purple;">**Activités illégales**</mark>_
 
 
 
@@ -189,7 +189,7 @@ _**Activités illégales**_
 
 
 
-_**Vie privée**_
+_<mark style="color:purple;">**Vie privée**</mark>_
 
 
 
@@ -199,7 +199,7 @@ _**Vie privée**_
 
 
 
-_**Respecter les positions d'autorité**_
+_<mark style="color:purple;">**Respecter les positions d'autorité**</mark>_
 
 
 
@@ -207,7 +207,7 @@ _**Respecter les positions d'autorité**_
 
 
 
-_**Sous réserve de modifications**_
+_<mark style="color:purple;">**Sous réserve de modifications**</mark>_
 
 
 
@@ -219,7 +219,7 @@ _**Sous réserve de modifications**_
 
 
 
-_**Développement**_
+_<mark style="color:purple;">**Développement**</mark>_
 
 
 

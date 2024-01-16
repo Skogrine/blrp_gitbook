@@ -18,9 +18,7 @@ layout:
 
 # 🐧 Règlement illégal
 
-
-
-&#x20; _**Groupes Officiels.**_&#x20;
+_<mark style="color:purple;">**Groupes Officiels**</mark>_
 
 
 
@@ -30,7 +28,7 @@ layout:
 
 
 
-_**Prise d'otage**_
+_<mark style="color:purple;">**Prise d'otage**</mark>_
 
 
 
@@ -40,7 +38,7 @@ _**Prise d'otage**_
 
 
 
-_**Attaque de Zones Sensibles**_
+_<mark style="color:purple;">**Attaque de Zones Sensibles**</mark>_
 
 
 
@@ -53,7 +51,7 @@ Zones dites sensibles : Police Station, Hôpital, Gouvernement etc etc...&#x20;
 
 
 
-_**Braquage**_&#x20;
+_<mark style="color:purple;">**Braquage**</mark>_&#x20;
 
 
 
@@ -61,7 +59,7 @@ _**Braquage**_&#x20;
 
 
 
-_**Anonymat**_
+_<mark style="color:purple;">**Anonymat**</mark>_
 
 
 
@@ -70,7 +68,7 @@ _**Anonymat**_
 
 
 
-_**Torture**_
+_<mark style="color:purple;">**Torture**</mark>_
 
 
 
