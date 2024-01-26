@@ -5,7 +5,7 @@ La **Faction** des Forces de l'Ordre sur le serveur est une faction à pouvoir d
 \
 Elle régule et fait respecter les lois et règles instaurées dans le RolePlay. Elle n'a pas pour but de gâcher l'expérience de jeux des autres factions et est elle même réguler par la Justice qui la régit. Elle respecte et fait respecter les valeurs et lois promulguées par le pouvoir en place. \
 \
-La _**Modération,**_ elle promulgue le respect et appels les joueurs voulant rejoindre cette faction à faire preuve d'humilité d'humour et de compréhension, rappelant au passage l'importance de prendre et de faire prendre du plaisir.&#x20;
+La _**Modération,**_ elle promulgue le respect et appels les joueurs voulant rejoindre cette faction à faire preuve d'humilité, d'humour et de compréhension, rappelant au passage l'importance de prendre et de faire prendre du plaisir.&#x20;
 {% endhint %}
 
 &#x20;_<mark style="color:purple;">**Less Letal Weapon**</mark>_&#x20;
