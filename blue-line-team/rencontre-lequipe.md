@@ -29,7 +29,7 @@ layout:
 *   **Kayde Wolf**\
     _Head Supervisor & \[Temp] Social Manager_
 
-    Le _**Head Supervisor**_ ou, le _**Gérant des superviseurs**_ est le garant de la communauté, il dirige les _**Community-Supervisor**_, qui a leurs tours gère la communauté et la modérations/administration du projet. Le _**Social Manager**_ est un rôle essentiel englobe le suivi et la gestion des médias pour garantir l'efficacité de nos stratégies de communication. Avec une expertise en gestion des plateformes médiatiques, ce membre veille à ce que nos messages soient alignés sur nos objectifs stratégiques et maximisent notre visibilité médiatique.
+    Le _**Head Supervisor**_ ou, le _**Gérant des superviseurs**_ est le garant de la communauté, il dirige les _**Community-Supervisor**_, qui a leurs tours gère la communauté, la modérations et l'administration du projet. Le _**Social Manager**_ est un rôle essentiel englobe le suivi et la gestion des médias pour garantir l'efficacité de nos stratégies de communication. Avec une expertise en gestion des plateformes médiatiques, ce membre veille à ce que nos messages soient alignés sur nos objectifs stratégiques et maximisent notre visibilité médiatique.
 
 ***
 
@@ -40,8 +40,6 @@ layout:
   Le Head Dev est le cerveau de notre technologie, poussant constamment les limites. Ses responsabilités incluent superviser l'innovation, améliorer les processus et assurer l'excellence technique. Il inspire l'équipe de développement, garantissant que notre technologie est à la pointe et prépare l'avenir du secteur.
 
 ***
-
-
 
 
 
