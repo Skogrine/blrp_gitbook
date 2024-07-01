@@ -1,4 +1,4 @@
-# 🚨 Zone de Travail (Billy)
+# 🚨 Zone de Travail (Billy) 1
 
 **Blue Line** s'est donné pour mission de fournir à la communauté une expérience de jeu de rôle professionnelle, hautement disciplinée et réaliste, vous trouverez ci-dessous les règles essentielles à connaître sur BLRP.\
 \
@@ -9,8 +9,8 @@ Pour obtenir une expérience immersive au sein de la communauté, vous devrez pr
 [reglement-communautaire.md](../../reglement/reglement/reglement-communautaire.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../reglement/reglement/five-m/" %}
-[five-m](../../reglement/reglement/five-m/)
+{% content-ref url="five-m/" %}
+[five-m](five-m/)
 {% endcontent-ref %}
 
 

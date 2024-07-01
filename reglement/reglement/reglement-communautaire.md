@@ -10,7 +10,7 @@ description: Bienvenue dans la section 2 du règlement
 
 
 
-Vous trouverez ci-dessous l'ensemble des règles à respecter sur **BLRP**, ceci comprend le **Discord** principal et auxiliaires de _**Blue Line**_ ainsi que quelques références pour FiveM, pour plus de règles au sujet de FiveM cliquez ici :  [FIVEM](five-m/). \
+Vous trouverez ci-dessous l'ensemble des règles à respecter sur **BLRP**, ceci comprend le **Discord** principal et auxiliaires de _**Blue Line**_ ainsi que quelques références pour FiveM, pour plus de règles au sujet de FiveM cliquez ici :  [FIVEM](../../policies/zone-de-travail-billy-1/five-m/). \
 \
 \
 

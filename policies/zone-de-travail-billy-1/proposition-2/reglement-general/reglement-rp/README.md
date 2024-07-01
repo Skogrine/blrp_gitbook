@@ -1,4 +1,4 @@
-# ☘ Règlement RP
+# ☘️ Règlement RP
 
 _<mark style="color:purple;">**Normes de réalisme**</mark>_
 
@@ -34,9 +34,9 @@ _<mark style="color:purple;">**Normes de réalisme sur les Armes**</mark>_
 
 ⦁ Les armes à feu ne doivent être utilisées qu'en cas de **dernier** recours.&#x20;
 
-⦁ Les joueurs civils ne peuvent faire n'importe quoi avec celle-ci, la peur de la perte de leur arme doit être jouer à moins que la trame narrative du personnage ne l'oblige. ([Fear RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/fear-rp.md))&#x20;
+⦁ Les joueurs civils ne peuvent faire n'importe quoi avec celle-ci, la peur de la perte de leur arme doit être jouer à moins que la trame narrative du personnage ne l'oblige. ([Fear RP](../../../five-m/politiques-en-matiere-de-jeux-de-role/fear-rp.md))&#x20;
 
-⦁ Les comportements dit "Cow Boy" sont proscrits (sortir sa tête à découvert lors d'un feu nourri, dégainer son arme à tout bout de champ etc...)à moins que la trame narrative du personnage ne l'oblige.([Fear RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/fear-rp.md)) ([Cohérence RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/incoherence-rp.md))
+⦁ Les comportements dit "Cow Boy" sont proscrits (sortir sa tête à découvert lors d'un feu nourri, dégainer son arme à tout bout de champ etc...)à moins que la trame narrative du personnage ne l'oblige.([Fear RP](../../../five-m/politiques-en-matiere-de-jeux-de-role/fear-rp.md)) ([Cohérence RP](../../../five-m/politiques-en-matiere-de-jeux-de-role/incoherence-rp.md))
 
 
 
@@ -46,7 +46,7 @@ _<mark style="color:purple;">**Respecter le code de la route**</mark>_
 
 ⦁ Tous les membres des forces de l'ordre et des pompiers doivent respecter l'ensemble des lois sur les véhicules à moteur prévues par le code pénal et le code des véhicules de San Andreas "**BOUTON CODE PENAL et CODE VEHICULE"**.
 
-⦁ Les civils doivent respecter toutes les lois, sauf si l'histoire de fond de leur personnage correspond à leurs actions et qu'il y a une ligne de raisonnement claire derrière ces actions et raisonnable ([Cohérence RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/incoherence-rp.md)).
+⦁ Les civils doivent respecter toutes les lois, sauf si l'histoire de fond de leur personnage correspond à leurs actions et qu'il y a une ligne de raisonnement claire derrière ces actions et raisonnable ([Cohérence RP](../../../five-m/politiques-en-matiere-de-jeux-de-role/incoherence-rp.md)).
 
 
 
@@ -56,7 +56,7 @@ _<mark style="color:purple;">**Traque des civils**</mark>_
 
 ⦁ Le harcèlement civil est défini sur _**BLRP**_ comme le fait d'interagir avec un personnage après l’avoir repéré dans une zone et puis automatiquement vouloir interagir avec lui sans raison de _**RolePlay**_ juste à des fins de prises d’otage ou de questions inutiles etc etc…&#x20;
 
-Ce type de _**RP**_ est totalement proscrit sur _**BLRP**_ et est considéré comme un comportement toxic de plus ce type de comportement ne respecte pas les règles liées au [Mass RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/mass-rp.md).&#x20;
+Ce type de _**RP**_ est totalement proscrit sur _**BLRP**_ et est considéré comme un comportement toxic de plus ce type de comportement ne respecte pas les règles liées au [Mass RP](../../../five-m/politiques-en-matiere-de-jeux-de-role/mass-rp.md).&#x20;
 
 ⦁ Un agent ne peut pas se contenter de suivre un civil jusqu'à ce qu'il commette un délit, mais s'il remarque une activité suspecte, il peut l'observer pour essayer de voir si un délit est en train d'être commis.
 
@@ -79,13 +79,13 @@ _<mark style="color:purple;">**New Life Rules, NLR**</mark>_
 
 
 
-⦁ Après être revenu à la vie, vous ne vous souvenez pas de la scène précédente ([Méta Gaming](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/le-metagaming.md)).
+⦁ Après être revenu à la vie, vous ne vous souvenez pas de la scène précédente ([Méta Gaming](../../../five-m/politiques-en-matiere-de-jeux-de-role/le-metagaming.md)).
 
 &#x20;⦁ Il est interdit aux joueurs de retourner sur quelconque scène après la mort et le retour à la vie.&#x20;
 
 ⦁ Après un coma ou de graves blessures à la tête, il est impossible de se souvenir des 30 dernières minutes dans leur intégralité.&#x20;
 
-Des bribes peuvent être présentes cependant elles doivent rester cohérente à la blessure subie et respecter un certain **Fair Play** ([Win RP](../../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/win-rp.md)).&#x20;
+Des bribes peuvent être présentes cependant elles doivent rester cohérente à la blessure subie et respecter un certain **Fair Play** ([Win RP](../../../five-m/politiques-en-matiere-de-jeux-de-role/win-rp.md)).&#x20;
 
 ⦁ Tout joueur mourant lors d'une scène se devra d'effectuer une scène Paramedics/EMT s' ils sont disponibles.&#x20;
 

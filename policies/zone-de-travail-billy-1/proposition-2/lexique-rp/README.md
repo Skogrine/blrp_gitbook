@@ -4,13 +4,13 @@ _**New Life Rules, NLR**_
 
 
 
-⦁ Après être revenu à la vie, vous ne vous souvenez pas de la scène précédente ([Méta Gaming](../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/le-metagaming.md)).
+⦁ Après être revenu à la vie, vous ne vous souvenez pas de la scène précédente ([Méta Gaming](../../five-m/politiques-en-matiere-de-jeux-de-role/le-metagaming.md)).
 
 &#x20;⦁ Il est interdit aux joueurs de retourner sur quelconque scène après la mort et le retour à la vie.&#x20;
 
 ⦁ Après un coma ou de graves blessures à la tête, il est impossible de se souvenir des 30 dernières minutes dans leur intégralité.&#x20;
 
-Des bribes peuvent être présentes cependant elles doivent rester cohérente à la blessure subie et respecter un certain **Fair Play** ([Win RP](../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/win-rp.md)).&#x20;
+Des bribes peuvent être présentes cependant elles doivent rester cohérente à la blessure subie et respecter un certain **Fair Play** ([Win RP](../../five-m/politiques-en-matiere-de-jeux-de-role/win-rp.md)).&#x20;
 
 ⦁ Tout joueur mourant lors d'une scène se devra d'effectuer une scène Paramedics/EMT s' ils sont disponibles.&#x20;
 
@@ -34,7 +34,7 @@ _**Incohérence RP**_&#x20;
 
 
 
-⦁ Le fait de ne pas suivre une certaine cohérence, la cohérence de son personnage ou encore la cohérence du jeu (Peut également être pris pour du [Fail RP](../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/fail-rp.md)).
+⦁ Le fait de ne pas suivre une certaine cohérence, la cohérence de son personnage ou encore la cohérence du jeu (Peut également être pris pour du [Fail RP](../../five-m/politiques-en-matiere-de-jeux-de-role/fail-rp.md)).
 
 
 
@@ -96,7 +96,7 @@ _**Win RP**_
 
 ⦁ _**Blue Line**_ encourage les joueurs aux comportements **Fair Play**, le **Win RP** lui se caractérise par le fait d’effectuer des actions dans le but direct ou indirect de gagner. Il peut s'imaginer par des actions, des interprétations avantageuses, des paroles ou encore des pensées.&#x20;
 
-⦁ Vous n'êtes pas là pour gagner mais pour faire prendre et prendre du plaisir sauf si le background de votre personnage l'impose. ([Cohérence RP](../../../../reglement/reglement/five-m/politiques-en-matiere-de-jeux-de-role/incoherence-rp.md)).
+⦁ Vous n'êtes pas là pour gagner mais pour faire prendre et prendre du plaisir sauf si le background de votre personnage l'impose. ([Cohérence RP](../../five-m/politiques-en-matiere-de-jeux-de-role/incoherence-rp.md)).
 
 
 

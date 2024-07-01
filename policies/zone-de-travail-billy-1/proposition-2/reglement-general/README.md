@@ -18,28 +18,28 @@ description: 'Sommaire du Règlement BlueLine RolePlay :'
 
 
 
-{% content-ref url="../../proposition-1/reglement-general/reglement-hrp.md" %}
-[reglement-hrp.md](../../proposition-1/reglement-general/reglement-hrp.md)
+{% content-ref url="../../../../reglement/reglement/five-m/reglement-general/reglement-hrp.md" %}
+[reglement-hrp.md](../../../../reglement/reglement/five-m/reglement-general/reglement-hrp.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../proposition-1/reglement-general/reglement-rp.md" %}
-[reglement-rp.md](../../proposition-1/reglement-general/reglement-rp.md)
+{% content-ref url="../../../../reglement/reglement/five-m/reglement-general/reglement-rp.md" %}
+[reglement-rp.md](../../../../reglement/reglement/five-m/reglement-general/reglement-rp.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../proposition-1/lexique-rp/" %}
-[lexique-rp](../../proposition-1/lexique-rp/)
+{% content-ref url="../../../../reglement/reglement/five-m/lexique-rp/" %}
+[lexique-rp](../../../../reglement/reglement/five-m/lexique-rp/)
 {% endcontent-ref %}
 
-{% content-ref url="../../proposition-1/reglement-force-de-lordre.md" %}
-[reglement-force-de-lordre.md](../../proposition-1/reglement-force-de-lordre.md)
+{% content-ref url="../../../../reglement/reglement/five-m/reglement-force-de-lordre.md" %}
+[reglement-force-de-lordre.md](../../../../reglement/reglement/five-m/reglement-force-de-lordre.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../proposition-1/reglement-justice/" %}
-[reglement-justice](../../proposition-1/reglement-justice/)
+{% content-ref url="../../../../reglement/reglement/five-m/reglement-justice/" %}
+[reglement-justice](../../../../reglement/reglement/five-m/reglement-justice/)
 {% endcontent-ref %}
 
-{% content-ref url="../../proposition-1/reglement-illegal.md" %}
-[reglement-illegal.md](../../proposition-1/reglement-illegal.md)
+{% content-ref url="../../../../reglement/reglement/five-m/reglement-illegal.md" %}
+[reglement-illegal.md](../../../../reglement/reglement/five-m/reglement-illegal.md)
 {% endcontent-ref %}
 
 

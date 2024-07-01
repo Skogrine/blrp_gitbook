@@ -9,8 +9,8 @@ Pour obtenir une expérience immersive au sein de la communauté, vous devrez pr
 [reglement-communautaire.md](reglement-communautaire.md)
 {% endcontent-ref %}
 
-{% content-ref url="five-m/" %}
-[five-m](five-m/)
+{% content-ref url="../../policies/zone-de-travail-billy-1/five-m/" %}
+[five-m](../../policies/zone-de-travail-billy-1/five-m/)
 {% endcontent-ref %}
 
 
