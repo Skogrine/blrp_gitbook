@@ -46,7 +46,7 @@
 
 ## Policies
 
-* [🌴 Terms of Use](policies/terms-of-use.md)
+* [🌴 Conditions générales d'utilisation](policies/conditions-generales-dutilisation.md)
 * [TEST](policies/test/README.md)
   * [🚨 Copy of Reglement - BlueLine](policies/test/copy-of-reglement-blueline/README.md)
     * [📕 Five M](policies/test/copy-of-reglement-blueline/five-m/README.md)
